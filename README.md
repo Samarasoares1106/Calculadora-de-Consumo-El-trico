@@ -30,5 +30,24 @@ cd consumo-energia
 3. Execute o programa:
 python app.py
 
-## ⚙️ Requisitos
-- Ter o Python instalado (versão 3 ou superior)
+---
+
+## 🛠️ Requisitos
+- [x] Ter o **Python 3** ou superior instalado em sua máquina.
+- [x] Um terminal ou prompt de comando para execução.
+
+---
+
+## ✨ Funcionalidades
+* **Cálculo de Consumo:** Descubra o consumo mensal exato em kWh ⚡
+* **Estimativa de Custo:** Saiba quanto vai pagar em reais (R$) 💰
+* **Interface Simples:** Experiência amigável via linha de comando 👌
+
+---
+
+## 🚀 Tecnologias e Badges
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-green?style=for-the-badge)
+
+---

@@ -22,4 +22,4 @@ consumoMensal = (potencia * horasDia * 30) / 1000
 ## Como usar 🖥️
 1. Clone este repositório:
 ```bash
-git clone https://github.com/seu-usuario/consumo-energia.git
+git clone https://github.com/samarasoares1106/consumo-energia.git

@@ -21,13 +21,13 @@ consumoMensal = (potencia * horasDia * 30) / 1000
 
 ## ▶️ Como executar o projeto
 
-1. Baixe o projeto (ou clone o repositório):
+# Clone este repositório
 git clone https://github.com/samarasoares1106/consumo-energia.git
 
-2. Acesse a pasta:
+# Acesse a pasta do projeto
 cd consumo-energia
 
-3. Execute o programa:
+# Execute o programa
 python app.py
 
 ---

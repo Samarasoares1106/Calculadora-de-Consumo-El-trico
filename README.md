@@ -27,7 +27,7 @@ git clone https://github.com/samarasoares1106/consumo-energia.git
 cd consumo-energia
 
 # Execute o programa
-python app.py
+python app.py.py
 
 ---
 

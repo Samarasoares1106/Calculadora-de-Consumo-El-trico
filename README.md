@@ -26,7 +26,7 @@ git clone https://github.com/samarasoares1106/consumo-energia.git
 # Acesse a pasta do projeto
 cd consumo-energia
 
-# Execute o programa (nome correto do arquivo)
+# Execute o programa
 python app.py
 
 ---

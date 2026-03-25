@@ -21,7 +21,7 @@ consumoMensal = (potencia * horasDia * 30) / 1000
 
 ## ▶️ Como executar o projeto
 # Clone este repositório
-git clone https://github.com/samarasoares1106/consumo-energia.git
+https://github.com/Samarasoares1106/Calculadora-de-Consumo-El-trico/edit/main/app.py.py
 
 # Acesse a pasta do projeto
 cd consumo-energia
